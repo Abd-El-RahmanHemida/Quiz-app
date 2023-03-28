@@ -1,0 +1,64 @@
+[
+    {
+        "title":"Who is making the Web standards?",
+        "answer_1":"Microsoft",
+        "answer_2":"Google",
+        "answer_3":"Mozilla",
+        "answer_4":"The World Wide Web Consortium",
+        "answer_right":"The World Wide Web Consortium"
+    },
+
+    {
+        "title":"Choose the correct HTML element for the largest heading:",
+        "answer_1":"<h6>",
+        "answer_2":"<head>",
+        "answer_3":"h1",
+        "answer_4":"heading",
+        "answer_right":"h1"
+    },
+
+    {
+        "title":"Which HTML attribute is used to define inline styles?",
+        "answer_1":"class",
+        "answer_2":"styles",
+        "answer_3":"font",
+        "answer_4":"style",
+        "answer_right":"style"
+    },
+
+    {
+        "title":"Which is the correct CSS syntax?",
+        "answer_1":"{body;color:black;}",
+        "answer_2":"body {color: black;}",
+        "answer_3":"{body:color=black;}",
+        "answer_4":"body:color=black;",
+        "answer_right":"body {color: black;}"
+    },
+
+    {
+        "title":"Why we use <br> element",
+        "answer_1":"To make text bold",
+        "answer_2":"To make text Italic",
+        "answer_3":"To add breakline",
+        "answer_4":"To create horizintal line",
+        "answer_right":"To add breakline"
+    }, 
+
+    {
+        "title":"Is <img> element has attributs href",
+        "answer_1":"Yes",
+        "answer_2":"No its for anchor tag <a>",
+        "answer_3":"All elements have this attributs",
+        "answer_4":"Answer 1 and 3 are right",
+        "answer_right":"No its for anchor tag <a>"
+    },
+
+    {
+        "title":"How can we make element text bold",
+        "answer_1":"Putting it inside <b> tag",
+        "answer_2":"Putting it inside <strong> tag",
+        "answer_3":"Customizing it with font-weight property in CSS",
+        "answer_4":"All answers are right",
+        "answer_right":"All answers are right"
+    }
+]
